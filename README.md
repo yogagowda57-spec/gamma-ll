@@ -1,1 +1,1 @@
-# gamma-ll an bot of gamma
+# gamma-ll an bot of gamma ai
