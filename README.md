@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yoga 😎
+# 👋 Hey, I'm Yogananda H S 😎
 
 > 💻 `while(alive) { code(); }`
 
